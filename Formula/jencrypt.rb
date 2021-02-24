@@ -3,8 +3,8 @@ class Jencrypt < Formula
 
   desc "File and directory encryption tool for automatically mounting data volumes"
   homepage "https://github.com/JamesZBL/jencrypt"
-  url "https://github.com/JamesZBL/jencrypt/archive/2.0.7.tar.gz"
-  sha256 "02dca552383a2caa481493d0539598ab0c468d3b8ba20593af3f86e14fd9181a"
+  url "https://github.com/JamesZBL/jencrypt/archive/2.0.8.tar.gz"
+  sha256 "68273fabf0188cb7af74f9f9500d72bb64aa775ffd3bd4b617cb66b8c1a61f78"
   license "Apache-2.0"
 
   resource "watchdog" do
